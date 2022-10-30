@@ -54,7 +54,7 @@ const MainMint = ({ accounts, setAccounts }) => {
             marginTop="10px"
             marginBottom="10px"
           >
-            hello
+            donot do this thx
           </Text>
         </div>
 
