@@ -2,7 +2,7 @@
   "name": "nft_web_try",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://chengxu890.github.io/kitties",
+  "homepage": "https://chengxu890.github.io/nft_mint",
   "dependencies": {
     "@chakra-ui/react": "^2.3.6",
     "@emotion/react": "^11.10.4",
