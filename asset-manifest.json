@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/nft_mint/static/css/main.8c208cc9.css",
+    "main.js": "/nft_mint/static/js/main.538b509a.js",
+    "static/media/parallax-bg.gif": "/nft_mint/static/media/parallax-bg.a753668321d10848110d.gif",
+    "index.html": "/nft_mint/index.html",
+    "main.8c208cc9.css.map": "/nft_mint/static/css/main.8c208cc9.css.map",
+    "main.538b509a.js.map": "/nft_mint/static/js/main.538b509a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c208cc9.css",
+    "static/js/main.538b509a.js"
+  ]
+}
